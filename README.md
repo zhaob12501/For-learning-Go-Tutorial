@@ -1,6 +1,6 @@
 ### For-learning-Go-Tutorial
 准备写一本Go的书针对初学者快速入门开发和使用go！
-> forked from [KeKe-Li/For-learning-Go-Tutorial]('https://github.com/KeKe-Li/For-learning-Go-Tutorial')
+**forked from [KeKe-Li/For-learning-Go-Tutorial]('https://github.com/KeKe-Li/For-learning-Go-Tutorial')**
 <p align="center">
 <img width="100%" align="center" src="src/images/1.jpg" />
 </p>
